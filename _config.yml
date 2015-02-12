@@ -5,7 +5,7 @@ author: Alex Sukhodolsky
 email: hitupalex@gmail.com
 description: "My blog" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://alexsukhodolsky.github.io/" # the base hostname & protocol for your site
 
 
